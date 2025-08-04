@@ -125,10 +125,6 @@ Standout capabilities include:
 
 ---
 
-## 🖼 UI GALLERY
-
-<!-- 📌 Add relevant screenshots for UI, features, etc. -->
-
 ---
 
 ## 📚 SUPPORTING MATERIALS
