@@ -78,12 +78,16 @@ Standout capabilities include:
 <!-- 🖼 Replace with your own screenshot -->
 ![Deployment Preview](Assets/Deployment%20&%20preview.png)
 
+
 ---
 
 ## 📊 OUTPUT & PERFORMANCE
 
 <!-- 🖼 Replace with your own screenshot -->
-![Results](Assets/OutPut.png)
+![Result 1](Assets/Preview1.png)
+![Result 2](Assets/Preview2.png)
+![Result 3](Assets/Preview4.png)
+
 
 ---
 
